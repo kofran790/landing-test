@@ -61,13 +61,13 @@ body{
     max-width: 960px;
     margin: auto;
     overflow: hidden;
-    padding: 4rem 1rem;
+    padding: 1rem 1rem;
 }
 
 .grid-3{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 20px;
+    grid-gap: 40px;
 }
 
 .grid-2{
